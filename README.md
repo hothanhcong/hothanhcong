@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thanhcong2002&label=Profile%20views&color=0e75b6&style=flat" alt="Thanhcong2002" /> </p>
 <img align="right" alt="Coding" width = "400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🌱 I’m currently learning and working **Embedded system** field, I'm graduation at **HCMC University of Technology And Education**
+- 🌱 I’m currently learning and working **Embedded system** field, I'm graduation at **HCMC University of Technology And Education** and my major is: Embedded system and Internet of things
 
 - 📫 How to reach me **congho303@gmail.com**
 
